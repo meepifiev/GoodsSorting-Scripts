@@ -1,0 +1,20 @@
+{
+    "name": "_Project.Features",
+    "rootNamespace": "_Project.Features",
+    "references": [
+        "_Project.Core",
+        "VContainer",
+        "UniTask",
+        "spine-unity",
+        "spine-csharp"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
